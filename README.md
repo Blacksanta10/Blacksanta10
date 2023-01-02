@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Blacksanta10
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding random ideas and small projects
 - 🌱 I’m currently learning python. 
 - 💞️ I’m looking to collaborate on some stuff
 - 📫 How to reach me through twitter dms

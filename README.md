@@ -1,13 +1,15 @@
 
 <div align="center">
   <h1>Hi I'm Demitrius! </h1>
-  <br>
+  
   <h3> Welcome to my profile :) </h3>
   
   <pre>
     BSc in Computer Science @WMU
     Interested in fullstack development, ai, machine learning
   </pre>
+  
+  ![Alt](https://repobeats.axiom.co/api/embed/e0e8b6f28b11ae31795ea3f246e52061167924cc.svg "Repobeats analytics image")
 
   <h3>Connect with me!</h3>
   <br>
@@ -16,6 +18,6 @@
   
 </div>
 
-<div align="right">
-  <img src="One Piece Trafalgar Law GIF by TOEI Animation UK.gif" height="250" />
+<div align="center">
+  <img src="One Piece Trafalgar Law GIF by TOEI Animation UK.gif" height="200" />
 </div>

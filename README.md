@@ -9,7 +9,6 @@
     Interested in fullstack development, ai, machine learning
   </pre>
   
-  ![Alt](https://repobeats.axiom.co/api/embed/e0e8b6f28b11ae31795ea3f246e52061167924cc.svg "Repobeats analytics image")
 
   <h3>Connect with me!</h3>
   <br>
